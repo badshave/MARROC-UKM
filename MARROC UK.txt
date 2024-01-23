@@ -1,0 +1,556 @@
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="|.UK.| SKY SPORT ARENA FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsArena.uk.png" group-title="UK SPORT",|.UK.| SKY SPORT ARENA FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30863.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORT F1 FHD" tvg-logo=" http://one-iptv.com/imageslogo/SkySportsF1.uk.png" group-title="UK SPORT",|.UK.| SKY SPORT F1 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30967.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS FOOTBALL HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsFootball.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS FOOTBALL HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30997.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="|.UK.| SKY SPORT FOOTBALL FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsFootball.uk.png" group-title="UK SPORT",|.UK.| SKY SPORT FOOTBALL FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30862.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS ACTION HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsAction.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS ACTION HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31086.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS ACTION FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsAction.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS ACTION FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30941.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS CRICKET FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsCricket.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS CRICKET FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31085.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS CRICKET HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsCricket.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS CRICKET HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30940.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS GOLF HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsGolf.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS GOLF HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31087.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS GOLF " tvg-logo="http://one-iptv.com/imageslogo/SkySportsGolf.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS GOLF 
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30942.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| SKY SPORTS (MAIN EVENT) FHD" tvg-logo=" http://one-iptv.com/imageslogo/SkySportsMainEvent.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS (MAIN EVENT) FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31084.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| SKY SPORTS MAIN EVENT HD" tvg-logo=" http://one-iptv.com/imageslogo/SkySportsMainEvent.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS MAIN EVENT HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30945.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="|.UK.| SKY SPORTS MIX FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsMix.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS MIX FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31025.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS MIX HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsMix.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS MIX HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30994.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="|.UK.| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsPremiereLeague.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS PREMIER LEAGUE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31088.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsPremiereLeague.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS PREMIER LEAGUE HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30943.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS NEWS HD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsNews.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS NEWS HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30858.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| SKY SPORTS NEWS FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportsNews.uk.png" group-title="UK SPORT",|.UK.| SKY SPORTS NEWS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31033.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BT SPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_D7A5_900_2_11A0000_0_0_0.png" group-title="UK SPORT",|.UK.| BT SPORT 1 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30904.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="|.UK.| BT SPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/BTSport1.uk.png" group-title="UK SPORT",|.UK.| BT SPORT 1 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30989.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BT SPORT 2 HD" tvg-logo=" http://one-iptv.com/imageslogo/BTSport2.uk.png " group-title="UK SPORT",|.UK.| BT SPORT 2 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30905.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="|.UK.| BT SPORT 2 FHD" tvg-logo=" http://one-iptv.com/imageslogo/BTSport2.uk.png seize : 15459" group-title="UK SPORT",|.UK.| BT SPORT 2 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31044.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="|.UK.| BT SPORT 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/BTSport3.uk.png" group-title="UK SPORT",|.UK.| BT SPORT 3 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31027.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BT SPORT 3 HD" tvg-logo="http://one-iptv.com/imageslogo/BTSport3.uk.png" group-title="UK SPORT",|.UK.| BT SPORT 3 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31000.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="|.UK.| BT SPORT ESPN HD" tvg-logo="http://one-iptv.com/imageslogo/BTSportESPN.uk.png" group-title="UK SPORT",|.UK.| BT SPORT ESPN HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30906.ts
+#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="|.UK.| BT SPORT EXTRA 1" tvg-logo="http://one-iptv.com/imageslogo/BTSportX1.uk.png" group-title="UK SPORT",|.UK.| BT SPORT EXTRA 1
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31037.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BT SPORT EXTRA 2 " tvg-logo=" http://one-iptv.com/imageslogo/BTSportX2.uk.png" group-title="UK SPORT",|.UK.| BT SPORT EXTRA 2 
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31038.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| BT SPORT EXTRA 3" tvg-logo="http://one-iptv.com/imageslogo/BTSportX3.uk.png" group-title="UK SPORT",|.UK.| BT SPORT EXTRA 3
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31039.ts
+#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="|.UK.| BT SPORT EXTRA 4" tvg-logo=" http://one-iptv.com/imageslogo/BTSportX4.uk.png" group-title="UK SPORT",|.UK.| BT SPORT EXTRA 4
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31040.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport.it.png" group-title="UK SPORT",|.UK.| EUROSPORT 1 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31057.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="|.UK.| EUROSPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport.it.png" group-title="UK SPORT",|.UK.| EUROSPORT 1 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30890.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| EUROSPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.es.png" group-title="UK SPORT",|.UK.| EUROSPORT 2 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31058.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="|.UK.| EUROSPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.es.png" group-title="UK SPORT",|.UK.| EUROSPORT 2 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30891.ts
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="|.UK.| BOX NATION " tvg-logo="http://one-iptv.com/imageslogo/BoxNation.uk.png" group-title="UK SPORT",|.UK.| BOX NATION 
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30903.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| CELTIC FC TV (MATCHTIME)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqHZtfuVs-3V1cS3_bgwKCMaTq-AcBxxd8aion6tYalb0jJWdD_GUaB02" group-title="UK SPORT",|.UK.| CELTIC FC TV (MATCHTIME)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30894.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| RANGERS FC TV (MATCHTIME)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhrXOc6NH6t-riTScOgYa-zx47wMRxwf943AFJyQPfLtWM3UNxjMBY7A" group-title="UK SPORT",|.UK.| RANGERS FC TV (MATCHTIME)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30893.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFdHczc1p0jdenGWsA0AZZIx7qPVRUQ1gJUMmTudZCuxqCMajRKtJA9oE&s" group-title="UK SPORT",|.UK.| EPL 1
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59363.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVIL1bYB-ovIVYsByLfpTO8wPANytWxE_p0UH6RAZXR3YZVH07x-QGR1Y&s" group-title="UK SPORT",|.UK.| EPL 2
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59364.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRHYb_iNFryMCn-wHVgfHh3eFGunxje2PcjBaGAjJtXtyznolM1pZGg&s" group-title="UK SPORT",|.UK.| EPL 3
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59365.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrJHeUOH_1_sPtnJeP1T7h39GgelpH-_vDW1DbitOuTA6dgXJPllBAQIYi&s" group-title="UK SPORT",|.UK.| EPL 4
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59366.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2FOQUZ3G4tJTYqMxK24TDeW4AZdH5GfKolCavZV5-aEdPlfEmJO51vCU&s" group-title="UK SPORT",|.UK.| EPL 5
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59367.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlV7XRuJd4twt2Eh6Rmr2PDttV7oqApDV82i_4QejqnWBfBcf41pWZ_aiq&s" group-title="UK SPORT",|.UK.| EPL 6
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59368.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-LMwP3MKqGVW-DnZRVU1KqmxM0o0vslUpAoJhS6TLHpSoZqhRTiyhOo&s" group-title="UK SPORT",|.UK.| EPL 7
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59369.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTip9i5zm5K3P_V1HbdNtVlkTkPEQSeZxMWyQHxyOwjmxwhhMvvdnJl28&s" group-title="UK SPORT",|.UK.| EPL 8
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59370.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYyuhYeFgzrnaXHGIYrNMM0VOk_BH90jFxjC9tUsOyUSRky1vgnvpULYw&s" group-title="UK SPORT",|.UK.| EPL 9
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59371.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXppKgrJxUXQJm_1eET0UauOGKOU5ZvKJPwLYIPNvwWdgC3BL3hnBw_7U&s" group-title="UK SPORT",|.UK.| EPL 10
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59372.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| EPL 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCDxW33WQdyboDdILwwqfmIwiieBntB9nkqYwyXTaTfy2RQSsvPVNVyME&s" group-title="UK SPORT",|.UK.| EPL 11
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59373.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEla8lPuadKb06KMq1P2Oc_u79GIELktvXJe-_hzFsxQnPZZghiqjC6Y&s" group-title="UK SPORT",|.UK.| IFOLLOW 1
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59374.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEla8lPuadKb06KMq1P2Oc_u79GIELktvXJe-_hzFsxQnPZZghiqjC6Y&s" group-title="UK SPORT",|.UK.| IFOLLOW 2
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59375.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAY22KBWi4gS9bZwcp41O34EBgH4wkg6IFTMYMP7F3x1XwCOaC0nXUtUhd&s" group-title="UK SPORT",|.UK.| IFOLLOW 3
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59376.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJoSZBu3ZIGxOc1pBcL7GmX9_AeOCwWytAG4-KJm__g5rH2UCtn-O5f9uP&s" group-title="UK SPORT",|.UK.| IFOLLOW 4
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59377.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThi3NdGSQJhtZUtkELZo9Sgo51V4gGvnfpqTUW6_aU_j3YdqFMetIcV2CL&s" group-title="UK SPORT",|.UK.| IFOLLOW 5
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59378.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLe0UyE6FR0amgl-KQvypO61O0jIQZ1Mzr0KshFHcE4StIZJfRUnhuZJs&s" group-title="UK SPORT",|.UK.| IFOLLOW 6
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59379.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2mXY6WP0rgYndK-lmmum4KCCVIuud9VH9eO-QaiUQWelR6jav2cqwTKa&s" group-title="UK SPORT",|.UK.| IFOLLOW 7
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59380.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJels-GjOfiCw6I7Sj5TVsrUazhmhCFjHKq3n9TD9ZP459UtPP6VBvPA&s" group-title="UK SPORT",|.UK.| IFOLLOW 8
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59381.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJoSZBu3ZIGxOc1pBcL7GmX9_AeOCwWytAG4-KJm__g5rH2UCtn-O5f9uP&s" group-title="UK SPORT",|.UK.| IFOLLOW 9
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59382.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2kHf_qQpq9Yo2muELpODsPWK3XLcejJ75CoEpave1jQgLViz6LMCjxkaX&s" group-title="UK SPORT",|.UK.| IFOLLOW 10
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59383.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnf8CBsdKJOdMrfgPOUIfabVgCWq5Aqh4KRftYRbmkp_0O9u5yPjKjpRFG&s" group-title="UK SPORT",|.UK.| IFOLLOW 11
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59384.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07Y8NAdaib7akdfg0Y5hQLNxUahjm4ZixYQQ5DaqWHCRg-8JC7og8xlg&s" group-title="UK SPORT",|.UK.| IFOLLOW 12
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59385.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQstQRIwbiP5flklWAm73QeE5IIsvEGX7izHnt2LJvmifAyOsjk-vLqU&s" group-title="UK SPORT",|.UK.| IFOLLOW 13
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59386.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KX5YyV61PgK4tDz04J1Cl45J7bf-svKaj65PnOXYxnLtg1XamVKhTzEU&s" group-title="UK SPORT",|.UK.| IFOLLOW 14
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59387.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5chRFYvx6laJLGUworCodtK65a24bAi-5m3X6sG956Fy-1Jrh9lzsrZi&s" group-title="UK SPORT",|.UK.| IFOLLOW 15
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59388.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 16" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTcaO_HafUhjiHMiqIIJAaNNo6FRaHSrN4Ce6MDDv4cWr-phbVgLEpl0l&s" group-title="UK SPORT",|.UK.| IFOLLOW 16
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59389.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAY22KBWi4gS9bZwcp41O34EBgH4wkg6IFTMYMP7F3x1XwCOaC0nXUtUhd&s" group-title="UK SPORT",|.UK.| IFOLLOW 17
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59390.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 18" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq7GAjUF1lOorbQwgx2loZQx6AMqFsf4W1NNEPVqw9YXMAsGougXOuWDk&s" group-title="UK SPORT",|.UK.| IFOLLOW 18
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59391.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 19" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjHG_n_Wix7egBbfrVgwpoqWYp6kHvbE9_r_Bu3zve4WTgiakMpX6kCE&s" group-title="UK SPORT",|.UK.| IFOLLOW 19
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59392.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| IFOLLOW 20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQneuTqZatoUcgVumWg0xiL6bNL0uLBkgWnjAuGq9PDgr8QSVt0O91UwKxE&s" group-title="UK SPORT",|.UK.| IFOLLOW 20
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59393.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="|.UK.| 5 STAR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQni1BoGVaAwPxAa7LrXRgJAhuE1VFisyQ3uiAV27Oj4mosF9BEkLfulWY" group-title="UK MOVIES",|.UK.| 5 STAR HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31030.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| 5 USA" tvg-logo=" http://one-iptv.com/imageslogo/pu_1_0_1_1E1E_809_2_11A0000_0_0_0.png" group-title="UK MOVIES",|.UK.| 5 USA
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31023.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA ACTION HD" tvg-logo="http://one-iptv.com/imageslogo/pu_613.png" group-title="UK MOVIES",|.UK.| SKY CINEMA ACTION HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30986.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| SKY CINEMA ACTION FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_613.png" group-title="UK MOVIES",|.UK.| SKY CINEMA ACTION FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30932.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA COMEDY HD" tvg-logo=" http://one-iptv.com/imageslogo/pu_617.png" group-title="UK MOVIES",|.UK.| SKY CINEMA COMEDY HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30985.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="|.UK.| SKY CINEMA COMEDY FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_617.png" group-title="UK MOVIES",|.UK.| SKY CINEMA COMEDY FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30933.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA THRILLER HD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA THRILLER HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30984.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| SKY CINEMA THRILLER FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA THRILLER FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30939.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA FAMILY HD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA FAMILY HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30981.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="|.UK.| SKY CINEMA FAMILY FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA FAMILY FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30935.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D SKY CINEMA DISNEY" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.|D SKY CINEMA DISNEY
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30983.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.|D SKY CINEMA DISNEY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXI9P4kkIl0YVtpMDylPfXAkTHIqbi1T29LoeWsxDWlafEa5k3s2RPgxT" group-title="UK MOVIES",|.UK.|D SKY CINEMA DISNEY FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30934.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA PREMIER HD" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="UK MOVIES",|.UK.| SKY CINEMA PREMIER HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30980.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="|.UK.| SKY CINEMA PREMIER FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="UK MOVIES",|.UK.| SKY CINEMA PREMIER FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30937.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA SCI-FI & HORROR HD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA SCI-FI & HORROR HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30979.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA SCI-FI & HORROR FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA SCI-FI & HORROR FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30931.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA SELECT HD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA SELECT HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30978.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA SELECT FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA SELECT FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31083.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="|.UK.| SKY CINEMA HITS FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA HITS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30872.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| SKY CINEMA GREATS FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA GREATS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30936.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA DRAMA HD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA DRAMA HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31104.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| SKY CINEMA DRAMA FHD" tvg-logo=" http://one-iptv.com/imageslogo/pu_sky_cinema.png" group-title="UK MOVIES",|.UK.| SKY CINEMA DRAMA FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30938.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SYFY HD" tvg-logo="http://one-iptv.com/imageslogo/Syfy.de.png" group-title="UK MOVIES",|.UK.| SYFY HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30946.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SYFY FHD" tvg-logo="http://one-iptv.com/imageslogo/Syfy.de.png" group-title="UK MOVIES",|.UK.| SYFY FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31092.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| FILM4 FHD" tvg-logo="http://one-iptv.com/imageslogo/Film4.uk.png" group-title="UK MOVIES",|.UK.| FILM4 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30922.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D SONY MOVIES ACTION" tvg-logo="http://one-iptv.com/imageslogo/SonyMoviesAction.uk.png" group-title="UK MOVIES",|.UK.|D SONY MOVIES ACTION
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31010.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| REAL LIVES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-ftKaW8LC-VvD2WklUkrrAUrk52nrWbCfx9Te4PT9LuKarzpdZBTED0" group-title="UK MOVIES",|.UK.| REAL LIVES
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31008.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D HOME & HEALTH HD" tvg-logo="http://one-iptv.com/imageslogo/HomeandHealth.uk.png" group-title="UK MOVIES",|.UK.|D HOME & HEALTH HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30925.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name=" |.UK.|D HOME & HEALTH  FHD" tvg-logo="http://one-iptv.com/imageslogo/HomeandHealth.uk.png" group-title="UK MOVIES", |.UK.|D HOME & HEALTH  FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31063.ts
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="|.UK.| BOX OFFICE HD 1" tvg-logo="http://one-iptv.com/imageslogo/beINBoxOffice1.tr.png" group-title="UK MOVIES",|.UK.| BOX OFFICE HD 1
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30869.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| BOX OFFICE HD 3" tvg-logo="http://one-iptv.com/imageslogo/beINBoxOffice3.tr.png" group-title="UK MOVIES",|.UK.| BOX OFFICE HD 3
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30867.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISNEY CHANNEL" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="UK CARTOONS",|.UK.| DISNEY CHANNEL
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30916.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISNEY CHANNEL HD" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="UK CARTOONS",|.UK.| DISNEY CHANNEL HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31051.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D DISNEY JUNIOR" tvg-logo=" http://one-iptv.com/imageslogo/DisneyJunior.es.png" group-title="UK CARTOONS",|.UK.|D DISNEY JUNIOR
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30917.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISNEY XD FHD" tvg-logo=" http://one-iptv.com/imageslogo/DisneyXD.es.png" group-title="UK CARTOONS",|.UK.| DISNEY XD FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30918.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISNEY XD HD" tvg-logo=" http://one-iptv.com/imageslogo/DisneyXD.es.png" group-title="UK CARTOONS",|.UK.| DISNEY XD HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31052.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| NICK JR" tvg-logo="http://one-iptv.com/imageslogo/NickJunior.uk.png" group-title="UK CARTOONS",|.UK.| NICK JR
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30929.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| NICKELODEON HD" tvg-logo="http://one-iptv.com/imageslogo/Nickelodeon.de.png" group-title="UK CARTOONS",|.UK.| NICKELODEON HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31074.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| NICKTOONS" tvg-logo=" http://one-iptv.com/imageslogo/Nicktoons.de.png" group-title="UK CARTOONS",|.UK.| NICKTOONS
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30930.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BABY TV" tvg-logo="http://one-iptv.com/imageslogo/BabyTV.uk.png" group-title="UK CARTOONS",|.UK.| BABY TV
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30897.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BOOMERANG" tvg-logo=" http://one-iptv.com/imageslogo/Boomerang.uk.png" group-title="UK CARTOONS",|.UK.| BOOMERANG
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30902.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| TINY POP" tvg-logo="http://one-iptv.com/imageslogo/Tinypop.uk.png" group-title="UK CARTOONS",|.UK.| TINY POP
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30947.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| CARTOON NETWORK FHD" tvg-logo="http://one-iptv.com/imageslogo/CartoonNetwork.de.png" group-title="UK CARTOONS",|.UK.| CARTOON NETWORK FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31045.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CARTOONITO" tvg-logo="http://one-iptv.com/imageslogo/Cartoonito.uk.png" group-title="UK CARTOONS",|.UK.| CARTOONITO
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30987.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| ANIMAL PLANET" tvg-logo="http://one-iptv.com/imageslogo/AnimalPlanet.uk.png" group-title="UK DOCUMENTARY",|.UK.| ANIMAL PLANET
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40940.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CRIME & INVESTIGATION FHD" tvg-logo="http://one-iptv.com/imageslogo/CrimeAndInvestigationNetwork.uk.png" group-title="UK DOCUMENTARY",|.UK.| CRIME & INVESTIGATION FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40942.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISCOVERY" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryVlaanderen.be.png" group-title="UK DOCUMENTARY",|.UK.| DISCOVERY
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40950.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISCOVERY HISTORY" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryHistory.uk.png" group-title="UK DOCUMENTARY",|.UK.| DISCOVERY HISTORY
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40947.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| FOOD NETWORK" tvg-logo=" http://one-iptv.com/imageslogo/FoodNetwork.uk.png" group-title="UK DOCUMENTARY",|.UK.| FOOD NETWORK
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40936.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| NAT GEO WILD FHD" tvg-logo="http://one-iptv.com/imageslogo/NatGeoWild.uk.png" group-title="UK DOCUMENTARY",|.UK.| NAT GEO WILD FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31072.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://one-iptv.com/imageslogo/NatGeo.uk.png" group-title="UK DOCUMENTARY",|.UK.| NATIONAL GEOGRAPHIC FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40952.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| TLC FHD" tvg-logo="http://one-iptv.com/imageslogo/TLC.de.png" group-title="UK DOCUMENTARY",|.UK.| TLC FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40941.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D DMAX" tvg-logo=" http://one-iptv.com/imageslogo/DiscoveryDMAX.uk.png" group-title="UK DOCUMENTARY",|.UK.|D DMAX
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30919.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC NEWS HD" tvg-logo="http://one-iptv.com/imageslogo/BBCNews.uk.png" group-title="UK NEWS",|.UK.| BBC NEWS HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30856.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC NEWS FHD" tvg-logo="http://one-iptv.com/imageslogo/BBCNews.uk.png" group-title="UK NEWS",|.UK.| BBC NEWS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31101.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| FOX NEWS" tvg-logo="http://one-iptv.com/imageslogo/FoxNews.us.png" group-title="UK NEWS",|.UK.| FOX NEWS
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30955.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| RTE ONE HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_F51_7EC_2_11A0000_0_0_0.png " group-title="UK ENTERTAINMENT",|.UK.| RTE ONE HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30855.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| RTE TWO HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_E28_7EC_2_11A0000_0_0_0.png" group-title="UK ENTERTAINMENT",|.UK.| RTE TWO HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30874.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY NEWS FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportNews.de.png" group-title="UK NEWS",|.UK.| SKY NEWS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31004.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="|.UK.| MTV HD" tvg-logo="http://one-iptv.com/imageslogo/MTV.es.png" group-title="UK MUSIC",|.UK.| MTV HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30975.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| MTV BASE" tvg-logo="http://one-iptv.com/imageslogo/MTVBase.de.png" group-title="UK MUSIC",|.UK.| MTV BASE
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30860.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| MTV ROCKS" tvg-logo="http://one-iptv.com/imageslogo/MTV.fr.png" group-title="UK MUSIC",|.UK.| MTV ROCKS
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31109.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="|.UK.| MUTV" tvg-logo="http://one-iptv.com/imageslogo/MUTV.uk.png" group-title="UK SPORT",|.UK.| MUTV
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31071.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D VH1" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_1B5A_7DA_2_11A0000_0_0_0.png" group-title="UK MUSIC",|.UK.|D VH1
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31099.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| ALIBI FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRku9WPtSkXI4q3cXhni3lcOlx9BG1M7D_2VaS4y3UczAISO3hxZFqbwledeA" group-title="UK ENTERTAINMENT",|.UK.| ALIBI FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31031.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="|.UK.| AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DjcE3LOFWxhjSOkMi9iHD7___VphbkUKmFmJCBSWJRa7L3_8W9mnW-k" group-title="UK ENTERTAINMENT",|.UK.| AMC
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30864.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC ALBA" tvg-logo=" http://one-iptv.com/imageslogo/BBCAlba.uk.png" group-title="UK NEWS",|.UK.| BBC ALBA
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31021.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC ONE HD" tvg-logo="http://one-iptv.com/imageslogo/BBC1.uk.png" group-title="UK NEWS",|.UK.| BBC ONE HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30898.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC ONE FHD" tvg-logo="http://one-iptv.com/imageslogo/BBC1.uk.png" group-title="UK NEWS",|.UK.| BBC ONE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30870.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC TWO FHD" tvg-logo=" http://one-iptv.com/imageslogo/BBC2.uk.png" group-title="UK NEWS",|.UK.| BBC TWO FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31034.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC SCOTLAND FHD" tvg-logo="http://one-iptv.com/imageslogo/BBCScotland.uk.png" group-title="UK NEWS",|.UK.| BBC SCOTLAND FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30899.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC FOUR HD" tvg-logo="http://one-iptv.com/imageslogo/BBC4.uk.png" group-title="UK NEWS",|.UK.| BBC FOUR HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31035.ts
+#EXTINF:-1 tvg-id="BET.uk" tvg-name="|.UK.|D BET" tvg-logo="http://one-iptv.com/imageslogo/BET.uk.png" group-title="UK ENTERTAINMENT",|.UK.|D BET
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31019.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CBBC" tvg-logo="http://one-iptv.com/imageslogo/CBBC.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CBBC
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30900.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CBEEBIES" tvg-logo=" http://one-iptv.com/imageslogo/CBeebies.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CBEEBIES
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30977.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CBS DRAMA" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_13F3_33_800_DCA0000_0_0_0.png" group-title="UK ENTERTAINMENT",|.UK.| CBS DRAMA
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30909.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="|.UK.| CBS REALITY" tvg-logo="http://one-iptv.com/imageslogo/CBSReality.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CBS REALITY
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30910.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| CHALLENGE 1" tvg-logo="http://one-iptv.com/imageslogo/Challenge.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CHALLENGE 1
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31046.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CHANNEL 4 HD" tvg-logo="http://one-iptv.com/imageslogo/Channel4.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CHANNEL 4 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31018.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CHANNEL 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/Channel4.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CHANNEL 4 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31017.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CHANNEL 5 HD" tvg-logo="http://one-iptv.com/imageslogo/Channel5.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CHANNEL 5 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31016.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CHANNEL 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/Channel5.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CHANNEL 5 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31015.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D CITV" tvg-logo="http://one-iptv.com/imageslogo/CITV.uk.png" group-title="UK ENTERTAINMENT",|.UK.|D CITV
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30895.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CNBC HD" tvg-logo="http://one-iptv.com/imageslogo/CNBC.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CNBC HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31014.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CNN HD" tvg-logo="http://one-iptv.com/imageslogo/CNN.uk.png" group-title="UK ENTERTAINMENT",|.UK.| CNN HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30888.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| COMEDY CENTRAL" tvg-logo="http://one-iptv.com/imageslogo/ComedyCentral.uk.png" group-title="UK ENTERTAINMENT",|.UK.| COMEDY CENTRAL
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30952.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DAVE HD" tvg-logo="http://one-iptv.com/imageslogo/Dave.uk.png" group-title="UK ENTERTAINMENT",|.UK.| DAVE HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/82758.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DAVE FHD" tvg-logo="http://one-iptv.com/imageslogo/Dave.uk.png" group-title="UK ENTERTAINMENT",|.UK.| DAVE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/82757.ts
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="|.UK.| DRAMA" tvg-logo=" http://one-iptv.com/imageslogo/Drama.uk.png" group-title="UK ENTERTAINMENT",|.UK.| DRAMA
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30920.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.|  E! " tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_CC01_8FF_2_11A0000_0_0_0.png" group-title="UK ENTERTAINMENT",|.UK.|  E! 
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31054.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| E4" tvg-logo="http://one-iptv.com/imageslogo/E4.uk.png" group-title="UK ENTERTAINMENT",|.UK.| E4
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30921.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| EDEN" tvg-logo="http://one-iptv.com/imageslogo/Eden.uk.png" group-title="UK ENTERTAINMENT",|.UK.| EDEN
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30954.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| GOLD" tvg-logo="http://one-iptv.com/imageslogo/GOLD.uk.png" group-title="UK ENTERTAINMENT",|.UK.| GOLD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30923.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|  ITV  1" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_5104_0_0_11A2B2C_0_0_0.png" group-title="UK ENTERTAINMENT",|.UK.|  ITV  1
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30879.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="|.UK.|  ITV FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_5104_0_0_11A2B2C_0_0_0.png" group-title="UK ENTERTAINMENT",|.UK.|  ITV FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30991.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="|.UK.| ITV 2" tvg-logo="http://one-iptv.com/imageslogo/ITV2.uk.png" group-title="UK ENTERTAINMENT",|.UK.| ITV 2
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31066.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="|.UK.| ITV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ITV2.uk.png" group-title="UK ENTERTAINMENT",|.UK.| ITV 2 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30877.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|  ITV 3" tvg-logo="http://one-iptv.com/imageslogo/ITV3.uk.png" group-title="UK ENTERTAINMENT",|.UK.|  ITV 3
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31067.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|  ITV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ITV3.uk.png" group-title="UK ENTERTAINMENT",|.UK.|  ITV 3 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30886.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| ITV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ITV4.uk.png" group-title="UK ENTERTAINMENT",|.UK.| ITV 4 HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31068.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| ITV 4  FHD" tvg-logo="http://one-iptv.com/imageslogo/ITV4.uk.png" group-title="UK ENTERTAINMENT",|.UK.| ITV 4  FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30876.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| ITV BE HD" tvg-logo="http://one-iptv.com/imageslogo/ITVBe.uk.png" group-title="UK ENTERTAINMENT",|.UK.| ITV BE HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30927.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| LFC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXEQF137-rf765VxHW-nNN0abdpbLGBfg9ptBNtmUv27vigeeAtdIbZ8" group-title="UK ENTERTAINMENT",|.UK.| LFC TV
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31069.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| LFC TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS85dD-s6uvPPGfn9SLCZtB0DZGDVXq_XoX3ORA0F6B75Irr5ly4vM8Qg" group-title="UK ENTERTAINMENT",|.UK.| LFC TV FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30883.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| LIFE TIME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYb_lLV6bzoHp9rfo7ohx6U9U7QVzp791U7oNofbsDO51BHKx1VjG5aCL8" group-title="UK ENTERTAINMENT",|.UK.| LIFE TIME FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30956.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.|D FINE LIVING FHD" tvg-logo=" http://one-iptv.com/imageslogo/FineLiving.pt.png" group-title="UK ENTERTAINMENT",|.UK.|D FINE LIVING FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30957.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D LONDON LIVE FHD" tvg-logo="http://one-iptv.com/imageslogo/LondonLive.uk.png" group-title="UK ENTERTAINMENT",|.UK.|D LONDON LIVE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30928.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| MORE 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/More4.uk.png" group-title="UK ENTERTAINMENT",|.UK.| MORE 4 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30959.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.| PICK" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_128F_7EA_2_11A0000_0_0_0.png" group-title="UK ENTERTAINMENT",|.UK.| PICK
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30901.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="|.UK.| QUEST" tvg-logo="http://one-iptv.com/imageslogo/Quest.uk.png" group-title="UK ENTERTAINMENT",|.UK.| QUEST
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31009.ts
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="|.UK.| S4C" tvg-logo=" http://one-iptv.com/imageslogo/S4C.uk.png" group-title="UK ENTERTAINMENT",|.UK.| S4C
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30853.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| TCM FHD" tvg-logo=" http://one-iptv.com/imageslogo/TCM.es.png" group-title="UK ENTERTAINMENT",|.UK.| TCM FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30973.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| TLC HD" tvg-logo="http://one-iptv.com/imageslogo/TLC.de.png" group-title="UK ENTERTAINMENT",|.UK.| TLC HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31094.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| TLC FHD" tvg-logo="http://one-iptv.com/imageslogo/TLC.de.png" group-title="UK ENTERTAINMENT",|.UK.| TLC FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31095.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| TCM HD" tvg-logo=" http://one-iptv.com/imageslogo/TCM.es.png" group-title="UK ENTERTAINMENT",|.UK.| TCM HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31105.ts
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="|.UK.|D UTV HD" tvg-logo="http://one-iptv.com/imageslogo/UTV.uk.png" group-title="UK ENTERTAINMENT",|.UK.|D UTV HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30948.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| WATCH FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SvzdXIIwPS_aNKXZcLP0FOsgvYPIC8v3BtujtAkJYdn_kiT-X7uvqgc" group-title="UK ENTERTAINMENT",|.UK.| WATCH FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31005.ts
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="|.UK.| YESTERDAY" tvg-logo=" http://one-iptv.com/imageslogo/Yesterday.uk.png" group-title="UK ENTERTAINMENT",|.UK.| YESTERDAY
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30968.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| PPV 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeJZn5IoBFFQhaT8LmxYyZIpnQi7_sbkhW5UKjqn-hLyC0xmkvEVzbz_RH&s" group-title="UK PPV",|.UK.| PPV 3
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59318.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| PPV 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF-81i65oFZ6Q8xmxUNnjU0eVdhl0XeeDfUx0XUSpeu_ISg3ArBMH9iX0&s" group-title="UK PPV",|.UK.| PPV 4
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59317.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| PPV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWUzNiIZaGCHOEWFQui8cOrAfZwigVygjeVAUbPKasuMACZyRLolujZA&s" group-title="UK PPV",|.UK.| PPV 5
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59316.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| PPV 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmr406p-Lu8-8c0KhfUqZFDw9wqJc6W23W2kXOR-laWLLHZcJbfRBZjI&s" group-title="UK PPV",|.UK.| PPV 6
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/59315.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| TRAVEL CHANNEL" tvg-logo="http://one-iptv.com/imageslogo/TravelChannel.pt.png" group-title="UK DOCUMENTARY",|.UK.| TRAVEL CHANNEL
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40935.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| GOOD FOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcsHDf9k_BCH8XMZKq6vfBH_BZLQPSOlzeiwWzc9vTey7Mzl-KO44OgoA" group-title="UK DOCUMENTARY",|.UK.| GOOD FOOD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40937.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BBC PARLIAMENT HD" tvg-logo="http://one-iptv.com/imageslogo/BBCParliament.uk.png" group-title="UK NEWS",|.UK.| BBC PARLIAMENT HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31020.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_53E_7EA_2_11A0000_0_0_0.png" group-title="UK SPORT",|.UK.| SKY SPORTS 2 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30998.ts
+#EXTINF:-1 tvg-id="STV.uk" tvg-name="|.UK.| STV FHD" tvg-logo=" http://one-iptv.com/imageslogo/STV.uk.png" group-title="UK ENTERTAINMENT",|.UK.| STV FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30881.ts
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="|.UK.| MOTORSPORT TV " tvg-logo="http://one-iptv.com/imageslogo/pu_motorstv.png" group-title="UK SPORT",|.UK.| MOTORSPORT TV 
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30960.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| BOX OFFICE HD 2" tvg-logo="http://one-iptv.com/imageslogo/pu_box_office_4.png" group-title="UK MOVIES",|.UK.| BOX OFFICE HD 2
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30868.ts
+#EXTINF:-1 tvg-id="ChannelAka.uk" tvg-name="|.UK.|D CHANNEL AKA" tvg-logo="http://one-iptv.com/imageslogo/ChannelAka.uk.png" group-title="UK ENTERTAINMENT",|.UK.|D CHANNEL AKA
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30861.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| RTE NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhkRhXrn7gdjivcIzJAK2S_oG7_Q0XGU9oPK7iq9LYO_0_H5PYSepN1Cd9g" group-title="UK NEWS",|.UK.| RTE NEWS HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/21271.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| NICKELODEON FHD" tvg-logo=" http://one-iptv.com/imageslogo/Nickelodeon.de.png" group-title="UK CARTOONS",|.UK.| NICKELODEON FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31076.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.|D CRIME & INVESTIGATION FHD" tvg-logo="http://one-iptv.com/imageslogo/CrimeAndInvestigationNetwork.uk.png" group-title="UK ENTERTAINMENT",|.UK.|D CRIME & INVESTIGATION FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31026.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| ITV BE FHD" tvg-logo="http://one-iptv.com/imageslogo/ITV1.uk.png" group-title="UK ENTERTAINMENT",|.UK.| ITV BE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31012.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| VH1 CLASSIC" tvg-logo="http://one-iptv.com/imageslogo/VH1.us.png" group-title="UK MUSIC",|.UK.| VH1 CLASSIC
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31787.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISCOVERY SCIENCE" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryScience.fr.png" group-title="UK DOCUMENTARY",|.UK.| DISCOVERY SCIENCE
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30913.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D DISCOVERY HISTORY FHD" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryHistory.uk.png" group-title="UK DOCUMENTARY",|.UK.|D DISCOVERY HISTORY FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30912.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| DISCOVERY TURBO " tvg-logo=" http://one-iptv.com/imageslogo/DiscoveryTurbo.uk.png" group-title="UK DOCUMENTARY",|.UK.| DISCOVERY TURBO 
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/40946.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.UK.|D NATIONAL GEOGRAPHIC" tvg-logo="http://one-iptv.com/imageslogo/NatGeo.de.png" group-title="UK DOCUMENTARY",|.UK.|D NATIONAL GEOGRAPHIC
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30972.ts
+#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="|.UK.| CHELSEA FC TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndgCco-02-LIpdwOdXJp94tElu2Ju_feyiboAF3gjieevV9CZLs4AtIo" group-title="UK SPORT",|.UK.| CHELSEA FC TV FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/30950.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| CHELSEA FC TV (MATCHTIME)" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_FC6_7F0_2_11A0000_0_0_0.png" group-title="UK SPORT",|.UK.| CHELSEA FC TV (MATCHTIME)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31047.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.|D UNIVERSAL HD" tvg-logo="http://one-iptv.com/imageslogo/Universal.de.png" group-title="UK ENTERTAINMENT",|.UK.|D UNIVERSAL HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/31098.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| CRIME+INV " tvg-logo="" group-title="UK ENTERTAINMENT",|.UK.| CRIME+INV 
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/131001.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.| CBEEBIES FHD" tvg-logo="" group-title="UK FHD",|.UK.| CBEEBIES FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/131003.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY SPORTS F1 FHD" tvg-logo="" group-title="UK SPORT",|.UK.| SKY SPORTS F1 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/131004.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| SKY CINEMA SCI-FI Horror FHD" tvg-logo="" group-title="UK ENTERTAINMENT",|.UK.| SKY CINEMA SCI-FI Horror FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/131007.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| RACING TV FHD" tvg-logo="" group-title="UK SPORT",|.UK.| RACING TV FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/131008.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.| BT SPORTS ESPN FHD" tvg-logo="" group-title="UK SPORT",|.UK.| BT SPORTS ESPN FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/131012.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD|D SKY SPORTS NFL HD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D SKY SPORTS NFL HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112441.ts
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="|.UK.FHD|D DAVE JA VU SD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D DAVE JA VU SD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112442.ts
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="|.UK.FHD|D SKY DOCUMENTARIES FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D SKY DOCUMENTARIES FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112444.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="|.UK.FHD| ITV1 FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| ITV1 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112445.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| SKY ONE FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY ONE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112446.ts
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="|.UK.FHD|D SKY WITNESS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D SKY WITNESS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112447.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| SKY ATLANTIC FHD *" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY ATLANTIC FHD *
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112448.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| SKY ARTS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY ARTS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112449.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| SKY CRIME FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CRIME FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112450.ts
+#EXTINF:-1 tvg-id="W.uk" tvg-name="|.UK.FHD| W FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| W FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112451.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| GOLD FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| GOLD FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112452.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| Comedy Central HD" tvg-logo="" group-title="UK FHD",|.UK.FHD| Comedy Central HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112453.ts
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="|.UK.FHD| E! FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| E! FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112454.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="|.UK.FHD| NAT GEO WILD FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| NAT GEO WILD FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112456.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| E4 FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| E4 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112458.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| More 4 UK FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| More 4 UK FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112459.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| 4SEVEN FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| 4SEVEN FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112460.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| ANIMAL PLANET HD" tvg-logo="" group-title="UK FHD",|.UK.FHD| ANIMAL PLANET HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112461.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| PARAMOUNT Network HD" tvg-logo="" group-title="UK FHD",|.UK.FHD| PARAMOUNT Network HD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112462.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="|.UK.FHD| EDEN FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| EDEN FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112463.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| LIFETIME FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| LIFETIME FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112464.ts
+#EXTINF:-1 tvg-id="LoveNature.nl" tvg-name="|.UK.FHD|D LOVE NATURE FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D LOVE NATURE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112465.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| BLOOMBERG FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| BLOOMBERG FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112466.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| SKY NEWS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY NEWS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112467.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="|.UK.FHD|D NICK FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D NICK FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112468.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| CBBC FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| CBBC FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112469.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="|.UK.FHD| BBC TWO FHD2 (D)" tvg-logo="" group-title="UK FHD",|.UK.FHD| BBC TWO FHD2 (D)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112470.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| BBC FIRST FHD2 (D)" tvg-logo="" group-title="UK FHD",|.UK.FHD| BBC FIRST FHD2 (D)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112471.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD|D WWE LIVE FHD H265" tvg-logo="" group-title="UK FHD",|.UK.FHD|D WWE LIVE FHD H265
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112472.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| SKY SPORTS MAIN EVENT FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY SPORTS MAIN EVENT FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112473.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="|.UK.FHD| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY SPORTS PREMIER LEAGUE FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112474.ts
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="|.UK.FHD| SKY SPORTS RACING FHD (2AM OFF-AUTO BOOT 6.30AM)" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY SPORTS RACING FHD (2AM OFF-AUTO BOOT 6.30AM)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112475.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="|.UK.FHD| SKY SPORTS NEWS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY SPORTS NEWS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112476.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| FREESPORTS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| FREESPORTS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112477.ts
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="|.UK.FHD| PREMIER SPORT 2 FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| PREMIER SPORT 2 FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112478.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| SONY SAB TV FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SONY SAB TV FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112479.ts
+#EXTINF:-1 tvg-id="SonyMax.uk" tvg-name="|.UK.FHD| SONY MAX FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SONY MAX FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112480.ts
+#EXTINF:-1 tvg-id="StarGold.uk" tvg-name="|.UK.FHD|D STAR GOLD FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D STAR GOLD FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112481.ts
+#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="|.UK.FHD|D STAR PLUS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D STAR PLUS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112482.ts
+#EXTINF:-1 tvg-id="ZeeCinema.uk" tvg-name="|.UK.FHD|D ZEE CINEMA FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D ZEE CINEMA FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112483.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD|D COLOURS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D COLOURS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112484.ts
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="|.UK.FHD|D ELEVEN SPORTS 1 {PORTUGAL FHD}" tvg-logo="" group-title="UK FHD",|.UK.FHD|D ELEVEN SPORTS 1 {PORTUGAL FHD}
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112485.ts
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="|.UK.FHD| PREMIER SPORT 1 FHD (D)" tvg-logo="" group-title="UK FHD",|.UK.FHD| PREMIER SPORT 1 FHD (D)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112488.ts
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="|.UK.FHD| PREMIER SPORT 2 FHD (D)" tvg-logo="" group-title="UK FHD",|.UK.FHD| PREMIER SPORT 2 FHD (D)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112489.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD|D PREMIER SPORT 3 FHD (D)" tvg-logo="" group-title="UK FHD",|.UK.FHD|D PREMIER SPORT 3 FHD (D)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112490.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| PREMIER SPORT LALIGA TV FHD (D)" tvg-logo="" group-title="UK FHD",|.UK.FHD| PREMIER SPORT LALIGA TV FHD (D)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112491.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="|.UK.FHD| SKY COMEDY FHD (NEW)" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY COMEDY FHD (NEW)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112492.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| VM 1 FHD (IRE)" tvg-logo="" group-title="UK FHD",|.UK.FHD| VM 1 FHD (IRE)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112493.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| VM 2 FHD (IRE)" tvg-logo="" group-title="UK FHD",|.UK.FHD| VM 2 FHD (IRE)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112494.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD|D VM 3 FHD (IRE)" tvg-logo="" group-title="UK FHD",|.UK.FHD|D VM 3 FHD (IRE)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112495.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="|.UK.FHD| SKY CINEMA PREMIER 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA PREMIER 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112497.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="|.UK.FHD| SKY CINEMA HITS 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA HITS 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112498.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="|.UK.FHD| SKY CINEMA FAMILY 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA FAMILY 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112499.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="|.UK.FHD| SKY CINEMA COMEDY 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA COMEDY 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112500.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD|D SKY CINEMA DISNEY 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD|D SKY CINEMA DISNEY 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112501.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| SKY CINEMA ACTION 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA ACTION 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112502.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| SKY CINEMA DRAMA 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA DRAMA 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112503.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="|.UK.FHD| SKY CINEMA SCI-FI 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA SCI-FI 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112504.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="|.UK.FHD| SKY CINEMA THRILLER 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA THRILLER 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112505.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| SKY CINEMA GREATS 50FPS FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| SKY CINEMA GREATS 50FPS FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112506.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.UK.FHD| VM Sport FHD (IRE)" tvg-logo="" group-title="UK FHD",|.UK.FHD| VM Sport FHD (IRE)
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/112496.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| QUEST FHD" tvg-logo="" group-title="UK DOCUMENTARY",|.UK.FHD| QUEST FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/131000.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.UK.FHD| MTV FHD" tvg-logo="" group-title="UK FHD",|.UK.FHD| MTV FHD
+http://tv.viptvpro.com:25443/live/N251FHU06QX/QFPTF9R3OE/130999.ts
